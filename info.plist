@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN">
+<plist version="1.0">
+<dict>
+<key>MBXAccessToken</key>
+<string>sk.eyJ1IjoibGVta2V5IiwiYSI6ImNrcWNzaHllNjAxdnQyeHFlcDV6OHc2MGYifQ.d_jMfK_crv3kUXvZIZjmIA</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Your precise location is used to calculate turn-by-turn directions, show your location on the map, and help improve the map.</string>
+<key>NSLocationTemporaryUsageDescriptionDictionary</key>
+<dict>
+    <key>LocationAccuracyAuthorizationDescription</key>
+    <string>Please enable precise location. Turn-by-turn directions only work when precise location data is available.</string>
+</dict>
+	<!-- <key>CFBundleDisplayName</key>
+	<string>My App Dev</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.my.app</string>
+	<key>CFBundleShortVersionString</key>
+	<string>101</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>8.0</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CFBundleName</key>
+	<string>My App Dev</string>
+	<key>XSAppIconAssets</key>
+	<string>Resources/Images.xcassets/AppIcons-Dev.appiconset</string> -->
+</dict>
+</plist>
