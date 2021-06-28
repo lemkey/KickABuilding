@@ -55,9 +55,9 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string></string>
-        </array>
-      </dict>
+					<string>fasfnaiafn</string>
+				</array>
+			</dict>
     </array>
     <key>UIRequiresFullScreen</key>
     <true/>
