@@ -7,7 +7,6 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@mapbox/mapbox-sdk": "^0.13.0",
     "@react-native-mapbox-gl/maps": "^8.2.1",
     "@types/jest": "^26.0.23",
     "@types/node": "^15.12.5",
@@ -27,7 +26,8 @@
     "react-native-reanimated": "~2.1.0",
     "react-native-screens": "~3.0.0",
     "react-native-unimodules": "~0.13.3",
-    "source-map-loader": "^3.0.0"
+    "source-map-loader": "^3.0.0",
+    "react-native-web": "~0.13.12"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"

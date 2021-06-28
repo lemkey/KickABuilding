@@ -5,8 +5,10 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 platform :ios, '11.0'
 
 target 'Kick' do
+  inherit! :search_paths
   use_unimodules!
   config = use_native_modules!
+
 
 # @generated begin pre_installer - expo prebuild (DO NOT MODIFY) sync-c8812095000d6054b846ce74840f0ffb540c2757
   pre_install do |installer|
