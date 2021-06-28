@@ -36,7 +36,7 @@
      <NavBar />
        <SafeAreaView>
          <View style={styles.container}>
-         <MapboxGL.MapView
+           <MapboxGL.MapView
             style={styles.map}
             onPress={event => {
               setCoordinates(event.geometry.coordinates);

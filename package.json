@@ -34,6 +34,9 @@
   "devDependencies": {
     "@babel/core": "^7.9.0"
   },
+  "expo": {
+      "plugins": ["@react-native-mapbox-gl/maps"]
+  },
   "private": true,
   "name": "Kick",
   "version": "1.0.0"
