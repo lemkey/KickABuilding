@@ -1,7 +1,6 @@
 import React from 'react';
 import Colors from 'react-native';
 import {ProfileTabNavigator} from 'react-native-navbar'
-import Comments from 'Comments';
 
 const NavBar = () => {
   return (
@@ -36,7 +35,7 @@ const NavBar = () => {
       }}
       swipeEnabled={true}>
         <h2>Kick A Building</h2>
-   <ProfileTabNavigator.Screen name="Comments" component={Comments} />
+   <ProfileTabNavigator.Screen name="Comments" />
  </ProfileTabNavigator.Navigator>
 );
 };
